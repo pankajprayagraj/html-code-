@@ -1,0 +1,98 @@
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    
+    <title> </title>
+</head>
+<body>
+     <p>pankaj</p> 
+    <h1>Heading 1</h1>
+    <h2>Heading 2</h2>
+    <h3>Heading 3</h1>
+    <h4>Heading 4</h1>
+    <h5>Heading 5</h1>
+    <h6>Heading 6</h1>
+        <a href = "https://google.com"> Google </a>
+        <br>
+        <a href = "www.flipkart.com"> Flipkart </a>
+        <br>
+        <a href = "www.flipkart.com"> Flipkart </a>
+        <br>
+        <a = href = "youtub.com"> YouTub </a>
+        <br>
+        <a = href = "instgram.com"> Instgram </a>
+        <img src = "https://cdn.fcglcdn.com/brainbees/images/products/583x720/14562449a.webp">
+        <img src = "http://cdn48.picsart.com/177308942000202.jpg">
+        <img src = "https://tse2.mm.bing.net/th?id=OIP.Jft59oyq8ofuvjsvHr122AHaFB&pid=Api&P=0&h=180">
+        <b> Bold </b>
+        <i> Italic </i>
+        <u> underline </u>
+        Even so my sun one early morn did shine,
+With all triumphant splendour on ,.
+<big> this is my pen </big>
+<hr>
+<small> thios is my pen pankaj </small>
+
+   
+     <p>H<sub>2</sub>o</p>
+     <p>3<sub>2</sub> = 9</p>
+
+     <p> 
+        yhis 
+        is a sample
+        text.
+    </p>
+    <sub>subscriptr</sub>
+    <sup>superscript</sup>
+    <h4>Registion from</h4>
+    <from>
+        <input type="text" placeholder="username">
+        <input type="password" placeholder="password">
+    </from>
+    <br>
+    <h5>select your class</h5>
+    <label> 
+        <input type="radio"value="class XI" name="class"id="101"> class XI
+    </label>
+</br>
+<br>
+    <label> 
+        <input type="radio"value="class XII" name="class"id="102"> class XI
+    </label>
+</br> 
+<h5>select your subject</h5>
+<label for="math"
+<input type="checkbox"value="math"name="subject"id="101">math
+</label>
+<label for="physics"
+<input type="checkbox"value="mphysics"name="subject"id="101">physics
+</label>
+<br><br>
+<label for="bio"
+<input type="checkbox"value="bio"name="subject"id="101">bio
+</label>
+<br><br>
+<label for="chemistory"
+<input type="checkbox"value="chemistory"name="subject"id="101">chemistory
+</label>
+<br><br>
+<label for="hindi"
+<input type="checkbox"value="hindi"name="subject"id="101">hindi
+</label>
+<br><br>
+<h5>  select your city</h5>
+<select nane="city">
+    <option value="Delhi">Delhi</option>
+    <option value="Mumbai">Mumbai</option>
+    <option value="Dubai">Dubai</option>
+    <option value="Prayagraj">Prayagraj</option>
+</select>
+<br><br>
+<textarea name="feedback" id="101" placeholder="please give you here" row=5></textarea>
+<input type="sumit" value="sumit" -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/WYpQ1VkXag0?si=q2wC0-tS3uA__xLl" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="800" height="400" src="https://www.mapsofindia.com/"></iframe>
+
+</body>
+</html> -->
